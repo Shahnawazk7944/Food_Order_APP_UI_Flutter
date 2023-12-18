@@ -3,7 +3,7 @@
 Here are some screenshots of the app:
 
 <p align="center"><img src="screenshots/pr_preview.gif" width="100%" height="60%"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992175.png" width="150" height="280"></></p>
+<p align="center"><img src="screenshots/Screenshot_1695992175.png" width="150" height="280"></p>
 <p align="center"><img src="screenshots/Screenshot_1695992179.png" width="150" height="280"></p>
 <p align="center"><img src="screenshots/Screenshot_1695992194.png" width="150" height="280"></p>
 <p align="center"><img src="screenshots/Screenshot_1695992204.png" width="150" height="280"></p>
