@@ -2,27 +2,27 @@
 
 Here are some screenshots of the app:
 
-<p align="center"><img src="screenshots/pr_preview.gif" width="100%" height="60%"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992175.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992179.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992194.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992204.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992208.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992213.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992215.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992227.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992242.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992254.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992258.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992267.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992271.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992284.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992295.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992297.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992316.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992324.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992332.png" width="150" height="280"></p>
-<p align="center"><img src="screenshots/Screenshot_1695992346.png" width="150" height="280"></p>
+<p align="center"><img src="screenshots/pr_preview.gif" width="220" height="400" ></p>
+<p align="center"><img src="screenshots/Screenshot_1695992175.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992179.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992194.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992204.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992208.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992213.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992215.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992227.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992242.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992254.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992258.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992267.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992271.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992284.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992295.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992297.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992316.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992324.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992332.png" width="220" height="400"></p>
+<p align="center"><img src="screenshots/Screenshot_1695992346.png" width="220" height="400"></p>
 
 Please note that these screenshots are for demonstration purposes only and may not reflect the actual appearance of the app.
 
